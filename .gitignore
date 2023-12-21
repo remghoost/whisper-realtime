@@ -1,0 +1,9 @@
+whisper/
+logs/
+other/
+audio/
+dist/
+venv/
+hooks/
+build/
+whisper-realtime.spec

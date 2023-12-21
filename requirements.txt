@@ -1,0 +1,6 @@
+keyboard
+pyaudio
+pyautogui
+datetime
+wave
+git+https://github.com/openai/whisper.git
