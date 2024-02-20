@@ -1,5 +1,7 @@
 # A front-end, "real-time" implementation for Whisper
 
+![hi](images/1.png)
+
 **Features:**
 - Keyboard emulation to "type" your transcription into the currently active text box (can be disabled via settings).
 - Option to save audio (can be enabled via settings).
